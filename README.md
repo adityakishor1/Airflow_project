@@ -1,5 +1,6 @@
 # Airflow_project
 
+![Output]("C:\Users\adiki\OneDrive\Pictures\Screenshots\Output.png")
 
 
 
@@ -31,7 +32,7 @@ Use different hand gestures to switch colors or clear the canvas.
 3. Run the script:
 "python hand_gesture_drawing.py"
 
-# Example
+
 
 # Contributors
 Aditya Kishor
