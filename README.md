@@ -1,6 +1,6 @@
 # Airflow_project
 
-![Screenshot 2024-05-15 232235]("C:\Users\adiki\OneDrive\Pictures\Screenshots\Screenshot 2024-05-15 232235.png")
+
 
 
 # Description
@@ -8,14 +8,20 @@ AirFlow is a project that utilizes hand gestures for controlling and interacting
 
 # Features
 Hand gesture recognition using Mediapipe framework
+
 Real-time interaction with digital content
+
 Supports multiple colors and drawing modes
+
 Clear button for resetting the canvas
 
 # Usage
 Run the Python script.
+
 Position your hand in front of the webcam.
+
 Move your fingers to draw on the canvas.
+
 Use different hand gestures to switch colors or clear the canvas.
 
 # Installation
